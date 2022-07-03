@@ -1,5 +1,6 @@
-# solend-dashboard
+# vue-tailwind
 
+This is a vue template with tailwind
 ## Project setup
 ```
 npm install
